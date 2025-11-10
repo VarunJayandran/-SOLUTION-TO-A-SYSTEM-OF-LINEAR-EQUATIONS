@@ -28,6 +28,7 @@ print(c)
 
 ```
 ## Output:
+<img width="1249" height="435" alt="image" src="https://github.com/user-attachments/assets/501881dc-2422-4b83-8274-54bc768b3f5a" />
 
 <img width="477" height="174" alt="image" src="https://github.com/user-attachments/assets/401985d6-fe3e-4c91-8c41-b6f34b8f6782" />
 
